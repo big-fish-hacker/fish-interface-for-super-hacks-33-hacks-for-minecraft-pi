@@ -10,3 +10,4 @@ FISH has a wide array of 33 hacks for any server to be destoryed! Destroy any mc
 - Minecraft Pi Edition
 - Python 3
 - `mcpi_addons` library https://github.com/Bigjango13/MCPI-Addons
+- `playsound` library `pip3 install playsound`
