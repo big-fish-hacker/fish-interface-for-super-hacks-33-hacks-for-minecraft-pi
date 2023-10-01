@@ -1,0 +1,2 @@
+MCPI-Addons>=1.2.3
+playsound>=0.1.0
